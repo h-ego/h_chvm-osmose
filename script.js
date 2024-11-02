@@ -1,3 +1,3 @@
 function downloadPDF() {
-    window.location.href = 'compte rendu de TP.pdf';
+    window.location.href = 'RAPPORT DE PRESENTATION D'OSMOSE.pdf';
 }
